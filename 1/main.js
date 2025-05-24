@@ -25,7 +25,7 @@
 // let person = `${firstName} ${lastName} ${middleName}`;
 // console.log(person);
 
-// ----------------#4N0y5tufA-------------------------
+// ----------------#4N0y5tufA------------------------
 
 // let a = 100;
 // let b = `100`;

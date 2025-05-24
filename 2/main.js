@@ -1,6 +1,7 @@
 // -----------------------#67kfznmiMl---------------------
 
 // let array = ['hello', 'okten', 'com', 'ua', 10, 3.14, -999, 1, true, false]
+//
 // console.log(array[0])
 // console.log(array[1])
 // console.log(array[2])
@@ -74,6 +75,7 @@
 //     {name: 'John', username: 'John', password: '123456'},
 //     {name: 'John', username: 'John', password: '123456'},
 // ]
+//
 // console.log(array[0].password)
 // console.log(array[1].password)
 // console.log(array[2].password)
