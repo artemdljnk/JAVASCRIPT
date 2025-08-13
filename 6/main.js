@@ -45,9 +45,9 @@
 
 // ------------------------#5hqyKTfmc----------
 
-function sortNums(arrayOfNumbers, direction){
-    if(direction === 'asc') return arrayOfNumbers.sort((a,b)=>a-b)
-    if(direction === 'desc') return arrayOfNumbers.sort((a,b)=>b-a)
-
-
-}
+// function sortNums(arrayOfNumbers, direction){
+//     if(direction === 'asc') return arrayOfNumbers.sort((a,b)=>a-b)
+//     if(direction === 'desc') return arrayOfNumbers.sort((a,b)=>b-a)
+//
+//
+// }
