@@ -1,0 +1,11 @@
+let main = [0,1,2,-3,999, 'okten', 'owu', 'js', false, true]
+console.log(main[0])
+console.log(main[1])
+console.log(main[2])
+console.log(main[3])
+console.log(main[4])
+console.log(main[5])
+console.log(main[6])
+console.log(main[7])
+console.log(main[8])
+console.log(main[9])
