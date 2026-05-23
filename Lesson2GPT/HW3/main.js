@@ -4,16 +4,19 @@ secondTeam[2] = 'Fischl'
 console.log(genshinTeam) //Честно вообще хз, наверное потому что мы связали с помощью переменных два массива и
 // теперь это как один считается
 
-let workoutDay = 1
-switch (workoutDay){
-    case 1 && 4:
-        console.log('Upper split')
-        break
-    case 2 || 5:
-        console.log('Lower split')
-        break
+let workoutDay = 1;
+
+switch (workoutDay) {
+    case 1:
+    case 4:
+        console.log('Upper split');
+        break;
+    case 2:
+    case 5:
+        console.log('Lower split');
+        break;
     default:
-        console.log('Rest & Recovery')
+        console.log('Rest & Recovery');
 }
 
 let potassiumLevel = 32
